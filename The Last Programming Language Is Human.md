@@ -64,7 +64,3 @@ Responsibility remains too. Whoever says "do it" answers for what gets done. Nat
 The problem was always implementation, the move from plan to reality. Code was the bridge across that gap, and we walked it for so long that we mistook the bridge for the destination. Now the gap is closing. Idea and realization are coming so close together that a single sentence, spoken in a human voice, fits between them.
 
 Programming languages were the machine's long road toward the human, and that road is nearing its end. The human returns to what was always theirs to do: speak, plan and draw.
-
-
-- First image: *"Each generation of languages shortened the distance between thought and machine."*
-- Second image: *"Speak, plan, draw — the true role of the human."*
